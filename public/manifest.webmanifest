@@ -1,0 +1,15 @@
+{
+  "name": "متجري برو | إدارة المتجر",
+  "short_name": "متجري برو",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#073a70",
+  "description": "نقطة بيع وإدارة مخزون وفواتير للمتاجر",
+  "icons": [
+    { "src": "./store-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

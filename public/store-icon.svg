@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#073a70"/>
+  <path d="M104 203h304l-28-83H132z" fill="#fff"/>
+  <path d="M119 202v165h274V202" fill="#f4f9fc"/>
+  <path d="M104 203h304c0 31-25 56-56 56-22 0-41-12-50-30-9 18-28 30-50 30s-41-12-50-30c-9 18-28 30-50 30-27 0-49-19-48-46z" fill="#1385c8"/>
+  <rect x="166" y="290" width="180" height="104" rx="10" fill="#fff"/>
+  <text x="256" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="92" font-weight="700" fill="#0879c5">م</text>
+  <path d="M213 394v-67h36v67m20 0v-44h31v44" fill="none" stroke="#073a70" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
